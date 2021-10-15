@@ -1,8 +1,35 @@
-h1{
+h1 {
     text-align: center;
-    color:red;
+    color: purple;
 }
 
-p{
-    font-size: 10px;
+body {
+    background: rgb(206, 184, 184);
+}
+
+p {
+    font-size: 20px;
+}
+
+.name {
+    color: blue;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.country {
+    font-style: italic;
+}
+
+.green {
+    color: green;
+}
+
+.white {
+    color: white;
 }
